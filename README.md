@@ -8,6 +8,10 @@ This project is a simple task management web application that allows users to cr
 
 The application also tracks task completion progress and stores tasks in the browser using Local Storage.
 
+## 🖥️ Application Preview
+
+![To-Do App](todo-preview.png)
+
 ## ✨ Features
 
 - ➕ Add new tasks
