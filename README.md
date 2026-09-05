@@ -54,17 +54,13 @@ cd to-do-app
 3. Run the application
 
 Open index.html in your web browser.
-
 No server or installation is required.
 
 💡 How It Works
 
 Tasks are added to the task list through the input field.
-
 The application updates the completion progress whenever a task is completed or deleted.
-
 Tasks are stored in the browser's Local Storage, allowing them to remain available after refreshing the page.
-
 The application also disables editing for completed tasks and displays a confetti animation when all tasks are completed.
 
 📱 Responsive Design
@@ -72,6 +68,7 @@ The application also disables editing for completed tasks and displays a confett
 The application includes responsive CSS rules so that the interface adjusts for smaller screens such as mobile devices.
 
 🔮 Future Improvements
+
 Add task categories
 Add due dates and reminders
 Add priority levels
@@ -79,12 +76,10 @@ Add dark/light theme switching
 Add task filtering
 Add cloud-based storage
 Add user authentication
+
 👩‍💻 Author
 
 Prapti Patil
-
 Computer Engineering Student | Aspiring Software Developer
 
-GitHub: https://github.com/prapti-patil
 
-LinkedIn: https://www.linkedin.com/in/praptipatil30
